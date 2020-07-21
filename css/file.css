@@ -1,0 +1,18 @@
+body{padding: 0px;   background-color: rgb(165, 120, 82);   font:16px "Trebuchet MS",Arial,Helvetica,sans-serif}
+#logo{color: white; position: absolute; left: 260px;    top: 62px;}
+#logo a{color: white; text-decoration: none;    font-size: 43px;    font-weight: 700;   padding: 60px 0px 15px 30px;}
+#about{color: rgb(177, 175, 175);   position: absolute; left: 858px;    top: 80px;}
+#content{width: 960px;   background-color: white;   margin: 123.5px auto 40px auto;   padding: 0px 0px 1px 0px;}
+#content #head{list-style-type: none;   display: flex;  flex-direction: row;    margin: 15px; padding: 34px 1px 4px 1px; font-size: 13px;}
+#content #head li a:link, #content #head li a:visited{color: white; text-decoration: none;  background-color: black;    padding: 20px 72.1px;}
+#content #head li a:hover,#content #head li a:active,#content #head li a#active{background-color: rgb(23, 30, 37);}
+img{margin: 16px 16px 0px 16px ;}
+#center{display: flex;  flex-direction: row;    font-size: 13px;    line-height: 25px; color: rgb(29, 29, 29);}
+#left{margin: 0px 30px;}    #left p{margin: 6px 0px 30px 0px;}
+h1 a{color: rgb(165, 120, 82);    text-decoration: none;    font-size: 39px;}   h1{margin: 10px 0px 0px 0px;}
+p a, #right div ul li a, footer a{color: forestgreen; text-decoration: none;}
+#right ul{list-style-type: none;}   #right ul li{border-bottom: 1px rgb(226, 225, 225) solid;   margin: 10px 0px;}
+#right div{width: 285px;     background-color: rgb(241, 237, 237);    margin: 19px 15px;  padding: 8px;}
+#right div p{margin: 15px;}
+h2{color: white;   background-color: skyblue;   margin: 0px;    padding: 9px 16px;}
+footer{ margin: 30px 15px;    background-color: rgb(193, 209, 157);  }   footer p{padding: 30px 15px;    text-align: center;    font-size: 13px;}
